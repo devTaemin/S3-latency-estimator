@@ -7,7 +7,7 @@
 
 ### 📌 Notion
 -----------------
-- [x] First trial should be excluded because of the time delay for connection is included.
+- [x] First trial should be excluded because the time delay for connection is included.
 - [x] [AWS](https://aws.amazon.com/) key and resources should be used securely.
 - [x] The process is including upload file, download file, delete file in a sequence.
 
