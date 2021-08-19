@@ -27,7 +27,7 @@
 
 <br>
 
-### 📌 Development stack
+### ⚙️ Development stack
 -----------------
 + Language : Python
 + Package : Boto3
